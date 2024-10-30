@@ -1,0 +1,5 @@
+MPA.py   海洋捕食者算法程序
+HMPA.py   改进的海洋捕食者算法程序
+IMPA-BILSTM.py  改进的海洋捕食者算法优化BILSTM四维关键参数的程序
+rawdata(1).csv  油井数据
+IMPATEST  HMPA的测试函数（GA、PSO、DE、MPA、HMPA的八个测试函数的测试情况）
